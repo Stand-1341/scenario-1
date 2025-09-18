@@ -1,0 +1,2 @@
+[workspace]
+members = ["tcp-server","tcp-client","http-server","http-lib"]
