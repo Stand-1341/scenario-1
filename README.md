@@ -1,6 +1,6 @@
 # Scenario 1 — Rust TCP client/server
 
-Workspace with four crates to mirror the lecture.
+Workspace with four crates
 
 ## Run
 Terminal A:
