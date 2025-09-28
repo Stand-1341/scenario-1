@@ -1,0 +1,4 @@
+[
+  { "id": "A1001", "status": "shipped", "items": 3, "total_usd": 129.99 },
+  { "id": "A1002", "status": "processing", "items": 1, "total_usd": 19.95 }
+]
