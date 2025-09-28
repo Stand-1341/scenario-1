@@ -1,2 +1,3 @@
 [workspace]
+resolver = "3"
 members = ["tcp-server","tcp-client","http-server","http-lib"]
